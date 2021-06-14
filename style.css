@@ -1,0 +1,66 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.imagem {
+
+  float: left;
+  padding-left: 10px;
+    
+}
+
+img {
+  
+align-items: center;
+border-radius: 30px;
+
+}
+
+section{
+
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+height: 500px;
+padding: 30px 3%;
+width: 100%;
+
+}
+
+h1 {
+
+font-size: 30px;
+margin-bottom: 20px;
+margin-top: 5px;
+
+}
+
+h3 {
+
+font-size: 20px;  
+margin-bottom: 20px;
+
+}
+
+
+.fundo {
+background-color: rgba(20, 20, 20);
+background-image: url(imagens/galaxia.png);
+
+}
+
+.infos {
+align-items: center;
+background-color: rgba(20, 20, 20);
+background-image: url(imagens/galaxia.png);
+color: white;
+font-family: Hand, cursive;
+font-style: italic;
+text-align: center;
+
+
+}
